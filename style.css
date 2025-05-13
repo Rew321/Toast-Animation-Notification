@@ -15,7 +15,7 @@
         background-color: #fff;
         padding: 20px 35px 20px 25px;
         box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-        border-left: 6px solid #4070f4;
+        border-left: 6px solid #00C7BE;
         overflow: hidden;
         transform: translateX(calc(100% + 30px));
         transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.35);
@@ -35,7 +35,7 @@
         justify-content: center;
         height: 35px;
         width: 35px;
-        background-color: #4070f4;
+        background-color: #00C7BE;
         color: #fff;
         font-size: 20px;
         border-radius: 50%;
@@ -85,7 +85,7 @@
         right: 0;
         height: 100%;
         width: 100%;
-        background-color: #4070f4;
+        background-color: #00C7BE;
     }
 
     .progress.active:before{
@@ -103,12 +103,12 @@
         border: none;
         outline: none;
         border-radius: 6px;
-        background-color: #4070f4;
+        background-color: #002B31;
         color: #fff;
         font-size: 20px;
         cursor: pointer;
         transition: all 0.3s ease-in-out;
     }
     button:hover{
-        background-color: #0e4bf1;
+        background-color: #00C7BE;
     }
