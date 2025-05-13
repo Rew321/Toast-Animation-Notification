@@ -8,4 +8,4 @@
  ![Languages](https://img.shields.io/badge/Used%20By%20%3A-Html%20Css%20JavaScript%20-#00C7BE?style=flat-squared)
 
 
-https://github.com/Rew321/Toast-Animation-Notification/blob/master/screenshots/image.png
+https://github.com/Rew321/Toast-Animation-Notification/master/screenshots/image.png
