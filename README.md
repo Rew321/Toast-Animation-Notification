@@ -5,7 +5,7 @@
 
  ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Andrew%20Okitoi-red)
 
- ![Languages](https://img.shields.io/badge/Used%20By%20%3A-Html%20Css%20JavaScript%20-blue)
+ ![Languages](https://img.shields.io/badge/Used%20Technologies%20%3A-HTML%20CSS%20JS%20-red)
 
 
 https://github.com/Rew321/Toast-Animation-Notification/blob/master/screenshots/image.png
